@@ -1,0 +1,18 @@
+body{
+    font-family: sora, "sans-serif";
+    line-height: 1.7;
+    color: var(--body);
+}
+h1,h2,h3,h4.h5,h6,
+.display{
+    color: var(--dark);
+
+}
+a{
+    color: var(--dark);
+    text-decoration: none;
+}
+.hero{
+    background-image: url(ik.jpg);
+    
+}
